@@ -1,7 +1,3 @@
-Below is a sample README.md that details the project, its architecture, technologies, setup, and usage instructions. You can modify or expand this file as needed:
-
----
-
 # PineScript Agentic RAG
 
 PineScript Agentic RAG is a Retrieval-Augmented Generation (RAG) system built to help users interactively query and explore PineScript documentation. The project provides a Streamlit-based chat interface where users can ask questions about PineScript and receive dynamic, streaming responses powered by advanced AI models. The system leverages a custom PineScript expert agent that retrieves, processes, and summarizes documentation stored in a Supabase database.
