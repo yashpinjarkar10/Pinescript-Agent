@@ -91,7 +91,7 @@ This project is designed to serve as a comprehensive tool for PineScript enthusi
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pinescript-agentic-rag.git
+   git clone https://github.com/yourusername/pinescript-agentic-rag.git](https://github.com/yashpinjarkar10/Pinescript-Agent.git
    cd pinescript-agentic-rag
    ```
 
